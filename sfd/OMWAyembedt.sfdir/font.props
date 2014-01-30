@@ -1,7 +1,7 @@
 SplineFontDB: 3.0
-FontName: OMWDRunes
-FullName: OMWDRunes
-FamilyName: OMWDRunes
+FontName: OMWAyembedt
+FullName: OMW Ayembedt
+FamilyName: OMW Ayembedt
 Weight: Medium
 Copyright: Created by Georg A. Duffner with Sorts Mill Tools 2.0.0_alpha1 <http://bitbucket.org/sortsmill/sortsmill-tools>
 UComments: "2013-6-14: Created." 
@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1371245471
-ModificationTime: 1371376659
+ModificationTime: 1391092061
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
